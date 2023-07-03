@@ -1,4 +1,4 @@
-# dl-math-word-problem-solving
+# Solving math word problems
 Using Seq2Seq Model with Attention and Transformer Model to convert simple Math Word Problems to their corresponding Equations.
 
 Introduction
