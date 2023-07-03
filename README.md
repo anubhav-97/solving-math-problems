@@ -1,12 +1,6 @@
 # dl-math-word-problem-solving
 Using Seq2Seq Model with Attention and Transformer Model to convert simple Math Word Problems to their corresponding Equations.
 
-
-References:
-1. https://www.tensorflow.org/tutorials/text/transformer#top_of_page
-2. https://www.tensorflow.org/tutorials/text/nmt_with_attention#top_of_page
-3. https://web.stanford.edu/class/cs224n/reports/custom/15843468.pdf
-
 Introduction
  The aim with the project is to use Deep Learning to automatically convert simple math word 
 problems, such as “If Andy has 5 apples and Jerry eats 1, how many are left?”, to a math 
@@ -25,3 +19,10 @@ Metrics used
 specifically to for auto-translation systems, BLEU score compares n-grams of 
 the candidate and reference translation, so even if the translation is not an 
 exact match, the score is not zero.
+
+
+References:
+1. https://www.tensorflow.org/tutorials/text/transformer#top_of_page
+2. https://www.tensorflow.org/tutorials/text/nmt_with_attention#top_of_page
+3. https://web.stanford.edu/class/cs224n/reports/custom/15843468.pdf
+
